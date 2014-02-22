@@ -242,19 +242,19 @@
     */
     controls: {
       rewind: {
-        label: "《",
+        label: "&laquo;",
         title: "First"
       },
       back: {
-        label: "〈",
+        label: "&#8249;",
         title: "Previous"
       },
       forward: {
-        label: "〉",
+        label: "&#8250;",
         title: "Next"
       },
       fastForward: {
-        label: "》",
+        label: "&#187;",
         title: "Last"
       }
     },
